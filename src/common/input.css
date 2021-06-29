@@ -1,0 +1,16 @@
+.input-div {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+input {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    height: 56px;
+    width: 327px;
+    border: 1px solid #000000;
+    border-radius: 16px;
+    font-size: 21px;
+    line-height: 28px;
+    color: #18191F;
+}
